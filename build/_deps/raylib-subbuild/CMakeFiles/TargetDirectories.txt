@@ -1,3 +1,0 @@
-/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
-/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
-/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir
