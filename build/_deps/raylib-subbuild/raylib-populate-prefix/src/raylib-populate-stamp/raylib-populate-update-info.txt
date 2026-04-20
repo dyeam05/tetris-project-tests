@@ -2,6 +2,6 @@
 # The patch step will be re-executed if anything in this file changes.
 # No other meaning or use of this file is supported.
 
-command (connected)=/usr/bin/cmake;-Dcan_fetch=YES;-P;/home/daniel/code-projects/tetris-test-repo/build/_deps/raylib-subbuild/raylib-populate-prefix/tmp/raylib-populate-gitupdate.cmake
-command (disconnected)=/usr/bin/cmake;-Dcan_fetch=NO;-P;/home/daniel/code-projects/tetris-test-repo/build/_deps/raylib-subbuild/raylib-populate-prefix/tmp/raylib-populate-gitupdate.cmake
-work_dir=/home/daniel/code-projects/tetris-test-repo/build/_deps/raylib-src
+command (connected)=/opt/homebrew/bin/cmake;-Dcan_fetch=YES;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-subbuild/raylib-populate-prefix/tmp/raylib-populate-gitupdate.cmake
+command (disconnected)=/opt/homebrew/bin/cmake;-Dcan_fetch=NO;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-subbuild/raylib-populate-prefix/tmp/raylib-populate-gitupdate.cmake
+work_dir=/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-src

@@ -1,14 +1,14 @@
 # Target labels
  raylib-populate
 # Source files and their labels
-/home/daniel/code-projects/tetris-test-repo/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate
-/home/daniel/code-projects/tetris-test-repo/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule
-/home/daniel/code-projects/tetris-test-repo/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule
-/home/daniel/code-projects/tetris-test-repo/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule
-/home/daniel/code-projects/tetris-test-repo/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule
-/home/daniel/code-projects/tetris-test-repo/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule
-/home/daniel/code-projects/tetris-test-repo/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule
-/home/daniel/code-projects/tetris-test-repo/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule
-/home/daniel/code-projects/tetris-test-repo/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule
-/home/daniel/code-projects/tetris-test-repo/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule
-/home/daniel/code-projects/tetris-test-repo/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule
+/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule
+/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule
+/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule
+/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule
+/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule
+/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule
+/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule
+/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule
+/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule
+/Users/danielyeaman/vscode-projects/tetris-project-tests/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule

@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/tetris.dir/src/tetris.cpp.o -o tetris  _deps/raylib-build/raylib/libraylib.a -lpthread -lOpenGL -lGLX -lGLU -Wl,-Bstatic -lrt -Wl,-Bdynamic -lm -ldl -lm 

@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/daniel/code-projects/tetris-test-repo/src/tetris.cpp" "CMakeFiles/tetris.dir/src/tetris.cpp.o" "gcc" "CMakeFiles/tetris.dir/src/tetris.cpp.o.d"
+  "/Users/danielyeaman/vscode-projects/tetris-project-tests/src/tetris.cpp" "CMakeFiles/tetris.dir/src/tetris.cpp.o" "gcc" "CMakeFiles/tetris.dir/src/tetris.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

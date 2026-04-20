@@ -1,20 +1,2 @@
 # Hashes of file build rules.
-12cafc2dd5bf855b5c4c1ae0af1e1a83 _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/update_mappings
-0bff08282b7aa058d8ba2e4416ec98b3 _deps/raylib-build/raylib/external/glfw/src/fractional-scale-v1-client-protocol-code.h
-5495410ee19eb38374e15a19f31631b8 _deps/raylib-build/raylib/external/glfw/src/fractional-scale-v1-client-protocol.h
-f742cc2addca63c957c5f879646329b7 _deps/raylib-build/raylib/external/glfw/src/idle-inhibit-unstable-v1-client-protocol-code.h
-19a7309e6a34c0e04511b650c967b51b _deps/raylib-build/raylib/external/glfw/src/idle-inhibit-unstable-v1-client-protocol.h
-8219234e7ce4f9294ac48a96aacbc39a _deps/raylib-build/raylib/external/glfw/src/pointer-constraints-unstable-v1-client-protocol-code.h
-258b90fe01ea51611c893129f08f6eab _deps/raylib-build/raylib/external/glfw/src/pointer-constraints-unstable-v1-client-protocol.h
-75749143133b26fb04e0c214bea71dc7 _deps/raylib-build/raylib/external/glfw/src/relative-pointer-unstable-v1-client-protocol-code.h
-a4c1d3d2dd6ed3a0ebcd3200fb8a319b _deps/raylib-build/raylib/external/glfw/src/relative-pointer-unstable-v1-client-protocol.h
-906b5dd7a7651ef6d5e94323a83daee7 _deps/raylib-build/raylib/external/glfw/src/viewporter-client-protocol-code.h
-f267e5c8f86de24cfb607092282439ba _deps/raylib-build/raylib/external/glfw/src/viewporter-client-protocol.h
-a148f772cddedba2ae028bef726964f8 _deps/raylib-build/raylib/external/glfw/src/wayland-client-protocol-code.h
-90093fec170292aa9e6f2343e61dcb40 _deps/raylib-build/raylib/external/glfw/src/wayland-client-protocol.h
-47168950497f9c9e8c5aaca51345f6ae _deps/raylib-build/raylib/external/glfw/src/xdg-activation-v1-client-protocol-code.h
-f56d8c00c14831d740dcd498827c22ac _deps/raylib-build/raylib/external/glfw/src/xdg-activation-v1-client-protocol.h
-46a72c04f8429a064d49096cf6f8c010 _deps/raylib-build/raylib/external/glfw/src/xdg-decoration-unstable-v1-client-protocol-code.h
-f7955ae355e1f0f7c4b1b25406618e78 _deps/raylib-build/raylib/external/glfw/src/xdg-decoration-unstable-v1-client-protocol.h
-4359db484d8b33a6c866f279f72559cf _deps/raylib-build/raylib/external/glfw/src/xdg-shell-client-protocol-code.h
-f5681dedaee296badb0daec022cbc311 _deps/raylib-build/raylib/external/glfw/src/xdg-shell-client-protocol.h
+b5382ad37a9834cdff9cc5a0e5c0a016 _deps/raylib-build/raylib/external/glfw/src/CMakeFiles/update_mappings
